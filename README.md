@@ -7,4 +7,4 @@ HW2 Represents ---> Implement database using linkedlist structure.
 
 HW3 Represents ---> Rat in Maze Problems, Find path in a maze using stacks, linkedlists with unique algorithm.
 
-HW3 Represents ---> Creating a database which uses HashTable.
+HW4 Represents ---> Creating a database which uses HashTable.
